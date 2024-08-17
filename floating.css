@@ -1,0 +1,18 @@
+.box {
+  width: 100px;
+  height: 100px;
+  border-style: 2px solid;
+  font-size: 40px;
+  text-align: center;
+  border-style: outset;
+  border-color: aqua;
+  background-color: aqua;
+  border-width: 10px;
+  border-radius: 15px;
+
+  float: left;
+  margin-right: 10px;
+}
+img {
+  float: right;
+}
